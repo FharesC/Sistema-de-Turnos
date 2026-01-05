@@ -74,13 +74,3 @@ Para obtener información específica sobre los endpoints de la API o la arquite
 - [Documentación de la API (Backend)](./turnos-backend/README.md)
 
 ---
-
-## 🤝 Contribución
-
-Si deseas contribuir:
-
-1.  Haz un Fork del proyecto.
-2.  Crea una rama para tu característica (`git checkout -b feature/NuevaMejora`).
-3.  Haz commit de tus cambios (`git commit -m 'Añade nueva mejora'`).
-4.  Push a la rama (`git push origin feature/NuevaMejora`).
-5.  Abre un Pull Request.
